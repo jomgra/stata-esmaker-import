@@ -8,7 +8,7 @@
 */
  
 //Ange sökvägen till datafilen
-local f = "H:\Documents\Mina filer\Uppdrag\Utvärdering av Kontrollwiki\03 Undersökningsinsatser\04 Statistik\Enkätundersökning 2017\data.xlsx"
+local f = "C:\Documents\data.xlsx"
 
 // Ange vilken som är den första frågan i enkäten. Detta behövs för att programmet ska kunna börja numreringen av frågorna på rätt fråga.
 local firstquestion = "Jag arbetar på en kontrollmyndighet inom"
